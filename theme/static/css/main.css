@@ -287,14 +287,6 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 
 #extras a:hover, #extras a:active {color: #fff;}
 
-	/* Blogroll */
-	#extras .blogroll {
-		float: left;
-		width: 615px;
-	}
-	
-	#extras .blogroll li {float: left; margin: 0 20px 0 0; width: 185px;}
-	
 	/* Social */
 	#extras .social {
 		float: right;

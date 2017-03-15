@@ -11,7 +11,6 @@
                     <h1 class="entry-title"><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h1>
                     {{ article.content }}
                     {% include 'article_infos.html' %}
-                    {% include 'comments.html' %}
                 </article>
             </aside><!-- /#featured -->
             {% if loop.length > 1 %}

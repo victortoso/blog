@@ -5,6 +5,8 @@ AUTHOR = 'Victor Toso'
 SITENAME = 'victortoso'
 SITEURL = ''
 
+THEME = "theme"
+
 PATH = 'content'
 
 TIMEZONE = 'Europe/Prague'

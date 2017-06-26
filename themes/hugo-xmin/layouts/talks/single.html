@@ -1,0 +1,22 @@
+{{ partial "header.html" . }}
+<div class="article-meta">
+<h1><span class="title">{{ .Title }}</span></h1>
+{{ with .Params.author }}<h2 class="author">{{ . }}</h2>{{ end }}
+{{ if .Params.date }}<h2 class="date">{{ $.Date.Format "2006/01/02" }}</h2>{{ end }}
+{{ if or .Params.video .Params.slides }}
+<ul class="talks">
+  {{ if .Params.video }}
+  <li><a href="{{ .Params.video }}">Video</a></li>
+  {{ end }}
+  {{ if .Params.slides }}
+  <li><a href="/{{ .Params.slides }}">Slides</a></li>
+  {{ end }}
+</ul>
+{{ end }}
+</div>
+
+<main>
+{{ .Content }}
+</main>
+
+{{ partial "footer.html" . }}

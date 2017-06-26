@@ -1,9 +1,11 @@
 ---
-date     : "2014-07-27T17:00:00+02:00"
-slug     : 1401
-tags     : ["gsoc", "gnome", "grilo", "guadec", "talks"]
-title    : "GUADEC 2014: Another GSoC on Grilo! (Light talk)"
-slides   : slides/1401-guadec-light-talk-about-grilo.pdf
+date      : "2014-07-27T17:00:00+02:00"
+slug      : 1401
+tags      : ["gsoc", "gnome", "grilo", "guadec", "talks"]
+title     : "Another GSoC on Grilo!"
+talkwhere : GUADEC
+talktype  : Light Talk
+slides    : slides/1401-guadec-light-talk-about-grilo.pdf
 
 ---
 

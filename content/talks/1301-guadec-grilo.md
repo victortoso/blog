@@ -1,10 +1,12 @@
 ---
-date     : "2013-08-04T16:20:00+02:00"
-slug     : 1301
-tags     : ["gsoc", "gnome", "grilo", "guadec", "talks"]
-title    : "GUADEC 2013: My GSOC on Grilo! (Light talk)"
-video    : https://www.superlectures.com/guadec2013/interns-lightning-talks?start=1:21:12
-slides   : slides/1301-guadec-light-talk-about-grilo.pdf
+date      : "2013-08-04T16:20:00+02:00"
+slug      : 1301
+tags      : ["gsoc", "gnome", "grilo", "guadec", "talks"]
+title     : "My GSOC on Grilo!"
+talkwhere : GUADEC
+talktype  : Light Talk
+video     : https://www.superlectures.com/guadec2013/interns-lightning-talks?start=1:21:12
+slides    : slides/1301-guadec-light-talk-about-grilo.pdf
 
 ---
 

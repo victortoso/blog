@@ -18,8 +18,13 @@ body {
   padding: 5px;
   border-radius: 5px;
 }
+
 .menu, .article-meta, footer { text-align: center; }
-.title { font-size: 1.0em; }
+.title {
+  font-size: 1.1em;
+  line-height: 1.2em;
+}
+
 footer a { text-decoration: none; }
 hr {
   border-style: dashed;

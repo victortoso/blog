@@ -12,19 +12,18 @@ footnotereturnlinkcontents = "↩"
     note = "/note/:year/:month/:day/:slug/"
 
 [[menu.main]]
-    name = "Home"
-    identifier = "blog"
-    url = "/"
+    name = "Blog"
+    url = "/blog/"
     weight = 1
-[[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 2
 [[menu.main]]
     name = "Talks"
     url = "/talks/"
-    weight = 3
+    weight = 2
 [[menu.main]]
     name = "Tags"
     url = "/tags/"
+    weight = 3
+[[menu.main]]
+    name = "About"
+    url = "/about"
     weight = 4

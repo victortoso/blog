@@ -1,6 +1,6 @@
 baseurl = "http://victortoso.com/"
 languageCode = "en-us"
-theme = "hugo-xmin"
+theme = "after-dark"
 title = "Victor Toso"
 googleAnalytics = ""
 disqusShortname = ""
@@ -8,11 +8,12 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 footnotereturnlinkcontents = "↩"
 
 [permalinks]
-    post = "/post/:year/:month/:day/:slug/"
+    post = "/post/:slug/"
     note = "/note/:year/:month/:day/:slug/"
 
 [[menu.main]]
     name = "Home"
+    identifier = "blog"
     url = "/"
     weight = 1
 [[menu.main]]
@@ -27,11 +28,3 @@ footnotereturnlinkcontents = "↩"
     name = "Tags"
     url = "/tags/"
     weight = 4
-
-[params]
-    description = "Victor Toso personal website."
-    footer = "[![keybase-logo](/images/about-logo-keybase-16x16.png)](https://keybase.io/toso/) \
-    [![twitter-logo](/images/about-logo-twitter-16x16.png)](https://twitter.com/victortoso/) \
-    [![gitlab-logo](/images/about-logo-gitlab-16x16.png)](https://gitlab.com/victortoso) \
-    [![github-logo](/images/about-logo-github-16x16.png)](https://github.com/victortoso) \
-    [![cc-logo](/images/about-logo-creative-commons-16x16.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)"

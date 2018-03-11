@@ -24,17 +24,15 @@ I'm wiling or due any random necessity.
 
 ## Contact
 
-* **Email**: me [at] victortoso [dot] com
-* **IRC**: As toso in gimpnet and freenode
-* **Keybase**: ![keybase-logo](/images/about-logo-keybase-16x16.png) [toso](https://keybase.io/toso/)
+* **Email**: toso [at] posteo [dot] net 
+* **IRC**: As **toso** in gimpnet and freenode
+* **Keybase**: [toso](https://keybase.io/toso/)
 * **PGP key**: [97D9 123D E37A 484F](http://pgp.mit.edu/pks/lookup?op=get&search=0x97D9123DE37A484F)
 
 ## Social
 
-As _victortoso_ in ![twitter-logo](/images/about-logo-twitter-16x16.png)
+As **victortoso** in 
 [twitter](https://twitter.com/victortoso/)
-![gitlab-logo](/images/about-logo-gitlab-16x16.png)
 [GitLab](https://gitlab.com/victortoso)
-![github-logo](/images/about-logo-github-16x16.png)
 [GitHub](https://github.com/victortoso)
 

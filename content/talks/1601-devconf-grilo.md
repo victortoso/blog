@@ -4,8 +4,6 @@ slug      : 1601
 tags      : ["gnome", "grilo", "devconf", "talks"]
 title     : "Grilo framework and Lua"
 talkwhere : DevConf
-video     : https://www.youtube.com/watch?v=RrCp3eOhLl0
-slides    : slides/1601-devconf-intro-to-grilo.pdf
 ---
 
 The [DevConf CZ](https://devconfcz2016.sched.com/) is a three-day conference
@@ -22,3 +20,6 @@ deliver Windows builds of SPICE components from a Linux machine. As extra, Virgl
 As SPICE was covered by very capable hands, I talked about Grilo once again but
 covering it all the way from application side using Grilo core and the the usage
 and development of Grilo plugins.
+
+[Video](https://www.youtube.com/watch?v=RrCp3eOhLl0)
+[Slides](/slides/1601-devconf-intro-to-grilo.pdf)

@@ -5,7 +5,6 @@ tags      : ["gsoc", "gnome", "grilo", "guadec", "talks"]
 title     : "Another GSoC on Grilo!"
 talkwhere : GUADEC
 talktype  : Light Talk
-slides    : slides/1401-guadec-light-talk-about-grilo.pdf
 
 ---
 
@@ -20,3 +19,5 @@ everybody was able to summarize their work very well. Sadly the video was not
 uploaded.
 
 I hope to come back to visit France more times in the future.
+
+[Slides](/slides/1401-guadec-light-talk-about-grilo.pdf)

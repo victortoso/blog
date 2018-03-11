@@ -5,8 +5,6 @@ tags      : ["gsoc", "gnome", "grilo", "guadec", "talks"]
 title     : "My GSOC on Grilo!"
 talkwhere : GUADEC
 talktype  : Light Talk
-video     : https://www.superlectures.com/guadec2013/interns-lightning-talks?start=1:21:12
-slides    : slides/1301-guadec-light-talk-about-grilo.pdf
 
 ---
 
@@ -18,3 +16,6 @@ Not super instructive video to watch but quite funny to me :)
 
 Also, It is very interesting that a little bit more then a year later, I would
 be moving to Brno to start a new phase of my life.
+
+[Video](https://www.superlectures.com/guadec2013/interns-lightning-talks?start=1:21:12)
+[Slides](/slides/1301-guadec-light-talk-about-grilo.pdf)

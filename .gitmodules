@@ -1,0 +1,3 @@
+[submodule "victortoso.com"]
+	path = victortoso.com
+	url = git@github.com:victortoso/victortoso.github.io.git

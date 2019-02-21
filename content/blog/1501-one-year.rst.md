@@ -2,7 +2,7 @@
 category : blog
 date     : 2015-10-15T23:34:00+02:00
 slug     : 1501
-tags     : 'red hat, life'
+tags     : [red hat, life]
 title    : One year
 type     : "post"
 ---

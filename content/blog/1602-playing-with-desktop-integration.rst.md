@@ -2,7 +2,7 @@
 category : blog
 date     : 2016-06-25T15:10:00+02:00
 slug     : 1602
-tags     : 'spice, console-kit, systemd, windows'
+tags     : [spice, console-kit, systemd, windows]
 title    : Playing with Desktop Integration
 type     : "post"
 ---

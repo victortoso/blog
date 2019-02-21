@@ -1,0 +1,4 @@
+{{ $for := .Get "for" }}
+{{ $form := .Get "form" }}
+{{ $body := .Get "text" | default .Inner }}
+{{ partial "components/label.html" (dict "for" $for "form" $form "body" $body) }}

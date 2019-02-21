@@ -4,6 +4,7 @@ date     : 2015-10-15T23:34:00+02:00
 slug     : 1501
 tags     : 'red hat, life'
 title    : One year
+type     : "post"
 ---
 
 It's been almost one year since my last blog post. One year since I got

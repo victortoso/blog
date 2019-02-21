@@ -4,6 +4,7 @@ date     : 2014-02-25T00:19:00-03:00
 slug     : 1401
 tags     : [grilo, lua-factory]
 title    : "Lua-Factory available upstream"
+type     : "post"
 ---
 
 It has been four months since the GSoC 2013 code submission. At that

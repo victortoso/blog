@@ -4,6 +4,7 @@ date     : 2014-04-22T23:43:00-03:00
 slug     : 1402
 tags     : [gnome, grilo, gsoc]
 title    : Google Summer of Code 2014
+type     : "post"
 ---
 
 ## Another great summer is coming

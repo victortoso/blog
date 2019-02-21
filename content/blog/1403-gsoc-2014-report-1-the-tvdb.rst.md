@@ -4,6 +4,7 @@ date     : 2014-05-24T23:34:00-03:00
 slug     : 1403
 tags     : [grilo, the-tvdb]
 title    : "GSoC 2014 Report #1 - The TVDB"
+type     : "post"
 ---
 
 ## Start

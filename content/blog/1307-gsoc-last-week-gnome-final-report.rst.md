@@ -4,6 +4,7 @@ date     : 2013-09-21T00:34:00-03:00
 slug     : 1307
 tags     : [grilo, gsoc, gnome, metrolyrics, flickr]
 title    : "GSoC last week, GNOME final report! :)"
+type     : "post"
 ---
 
 It's been a while since my last post just after GUADEC. I've lost some

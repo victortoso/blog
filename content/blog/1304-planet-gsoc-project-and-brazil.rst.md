@@ -4,6 +4,7 @@ date     : "2013-06-24T02:14:00-03:00"
 slug     : 1304
 tags     : [gsoc, gnome, grilo, lua]
 title    : "Planet, GSoC project and Brazil"
+type     : "post"
 ---
 
 First of all, hello everybody from Planet Gnome! This is the first post

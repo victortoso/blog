@@ -4,6 +4,7 @@ date     : 2014-07-15T02:58:00-03:00
 slug     : 1407
 tags     : [grilo, musicbrainz, acoustid]
 title    : "GSoC Report #6 and #7"
+type     : "post"
 ---
 
 ## Tuesday...

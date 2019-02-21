@@ -5,6 +5,7 @@ modified : 'Wednesday, March 15, 2017 09:50'
 slug     : 1302
 tags     : [gsoc, gnome, grilo, magnatune]
 title    : "Magnatune upstream and GSoC"
+type     : "post"
 ---
 
 I was having a busy week until this Sunday which happened to be my

@@ -4,6 +4,7 @@ date     : 2014-10-26T21:03:00+02:00
 slug     : 1408
 tags     : [red hat, brno, spice]
 title    : "Hello new life"
+type     : "post"
 ---
 
 Since the end of the Google Summer of Code 2014 so many things have

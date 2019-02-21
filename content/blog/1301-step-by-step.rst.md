@@ -5,6 +5,7 @@ modified : 'Wednesday, March 15, 2017 09:50'
 slug     : 1301
 tags     : ["gsoc", "gnome", "grilo", "magnatune"]
 title    : "Step by step"
+type     : "post"
 ---
 
 Time goes by when you finally finish your 18 years studying things that

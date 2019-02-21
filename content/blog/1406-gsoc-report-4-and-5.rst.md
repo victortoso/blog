@@ -4,6 +4,7 @@ date     : 2014-06-25T23:34:00-03:00
 slug     : 1406
 tags     : [grilo, the-tvdb, gtk, totem]
 title    : "GSoC Report #4 and #5"
+type     : "post"
 ---
 
 ## Hey :)

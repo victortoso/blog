@@ -4,6 +4,7 @@ date     : "2013-06-09T03:01:00-03:00"
 slug     : 1303
 tags     : [gsoc, gnome, grilo, lua, metrolyrics]
 title    : "Lua, Lyrics and GUADEC"
+type     : "post"
 ---
 
 First of all, as a good beginner in blogging I have promised that

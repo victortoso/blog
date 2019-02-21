@@ -4,6 +4,7 @@ date     : "2013-08-05T22:21:00-03:00"
 slug     : 1306
 tags     : [gnome, grilo, guadec, brno]
 title    : "Brno, GUADEC and Grilo"
+type     : "post"
 ---
 
 Brno is amazing. Just amazing. The people from here try to be helpfull

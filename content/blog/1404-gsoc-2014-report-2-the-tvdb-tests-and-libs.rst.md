@@ -4,6 +4,7 @@ date     : 2014-06-03T01:58:00-03:00
 slug     : 1404
 tags     : [grilo, the-tvdb]
 title    : "GSoC 2014 Report #2 - The TVDB - Tests and Libs"
+type     : "post"
 ---
 
 ## Keep moving!

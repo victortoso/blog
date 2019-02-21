@@ -4,6 +4,7 @@ date     : 2014-06-10T02:04:00-03:00
 slug     : 1405
 tags     : [grilo, magnatune, gom]
 title    : "GSoC 2014 Report #3 - gom"
+type     : "post"
 ---
 
 ## gom

@@ -4,6 +4,7 @@ date     : "2013-07-17T22:56:00-03:00"
 slug     : 1305
 tags     : [gsoc, gnome, grilo, metrolyrics]
 title    : "The unpredictable, GSoC report and next steps"
+type     : "post"
 ---
 
 Oh boy, there are things that can slow you down. It's been three weeks
